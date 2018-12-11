@@ -1,0 +1,1 @@
+PL/SQL scripts to help through oracle ERP based environement
